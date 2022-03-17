@@ -5,7 +5,7 @@ def axak(panda):
     sys.stdout.write(xak)
     sys.stdout.flush()
     time.sleep(0.004)
-   
+os.system("clear")
 axak("""\033[1;32m
                 ___  __  _____ ___ 
               (  _  )(  _ \ \__   /(  __ )
